@@ -1,15 +1,15 @@
 const people = [
   {
-    name: "Ivan Chen",
+    name: "Ivan",
     intellgence: false,
     famous_quote: "Time to play the racist champion",
     nickname: ["fishfood_eater", "lighting", "minecraft_addict"],
   },
   {
-    name: "Owen Deng",
+    name: "Owen",
     intellgence: false,
-    famous_quote: "Time to cook",
-    nickname: ["rat", "windter", "chef"],
+    famous_quote: "u are the originator of the schizo",
+    nickname: ["rat", "windter", "chemist"],
   },
   {
     name: "Asdac",
@@ -18,7 +18,7 @@ const people = [
     nickname: ["french men", "sus guy", "physic suffer"],
   },
   {
-    name: "Kevin Chen",
+    name: "Kevin",
     intellgence: false,
     famous_quote: "China did not like that ",
     nickname: ["Weeb", "Why do you play so much gacha games", "Sucrose lover"],
