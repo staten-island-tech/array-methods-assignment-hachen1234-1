@@ -14,7 +14,7 @@ const people = [
   {
     name: "Asdac",
     intellgence: false,
-    famous_quote: "Its a cult",
+    famous_quote: "Just because i am french,doesn't mean that i like children",
     nickname: ["french men", "sus guy", "physic suffer"],
   },
   {
